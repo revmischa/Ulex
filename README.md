@@ -71,4 +71,4 @@ in the bitcoin blockchain since: 2017- 06 - 09... ." followed by the exact time 
 * [Text of version 1.0](https://goo.gl/bChSpI)
 * [Text of version 1.1](https://goo.gl/YByFti)
 * Tom W. Bell, ["Your Next Government?"](https://www.amazon.com/Your-Next-Government-Stateless-Nations/dp/1316613925)
-* A [brief look at Ulex](https://innovativegovernance.org/2018/10/08/ulex-an-open-source-legal-framework/) on the Center For Innovative Governance Research blog
+* A [brief look at Ulex](https://www.chartercitiesinstitute.org/post/ulex-a-legal-framework) on the Charter Cities Institute blog
